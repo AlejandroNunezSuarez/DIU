@@ -1,7 +1,7 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Artesanía Nazarí ) 
 
-Grupo: DIU1_01AABB.  Curso: 2022/23 
+Grupo: DIU3_03AlejandroNuñezEnriqueMerino.  Curso: 2022/23 
 Updated: 11/1/2023
 
 Proyecto: 
@@ -15,14 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Alejandro Núñez Suárez     :octocat:     
+ * :bust_in_silhouette:  Enrique José Merino Arribas     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -30,7 +26,14 @@ Miembros
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
------
+
+Artesanía nazarí: Respecto a los métodos de pago, esta página web solo tenía como método de pago Paypal, algo un tanto incómodo. Tienen un buen método de contacto ya que te redirige directamente a su whatsapp personal y puedes preguntar fácilmente cualquier duda. La navegación dentro de la página web no es muy buena así como el contenido y texto que aparece en ella no son muy aclaratorios. En cuanto a las opciones de idioma cumple con creces, ya que tiene todo tipo de idiomas disponibles. No tiene una interfaz muy agradable y la información de la página de inicio no es muy explicativa para saber a qué se dedican exactamente.
+
+Tablao flamenco: Respecto a los métodos de pago, esta página web tiene varios métodos de pago por lo que es muy cómodo ya que disponen de varias opciones. Tienen un muy buen método de contacto ya que te redirige directamente a su whatsapp personal y puedes preguntar fácilmente cualquier duda al igual que ocurría con la página de artesanía nazarí. La navegación dentro de la página web es buena así como el contenido y texto que aparece en ella son bastante aclaratorios. En cuanto a las opciones de idioma tiene varios idiomas por lo que es correcto. No tiene una interfaz muy agradable aunque la información contenida en la página de inicio es correcta. 
+
+Free tour: Respecto a los métodos de pago,esta página web tiene distintas opciones para pagar. Aunque el método de contacto no es bueno ya que cuesta encontrarlo dentro de la página, la navegación dentro de la página web no es muy buena ya que está muy cargada a la vista, aunque el contenido y texto de cada free tour que ofrecen está bien explicado. No cumplen con muchas opciones de idioma, solo cuentan con la página en español e inglés No tiene una interfaz muy agradable y la información de la página de inicio no es muy explicativa para saber a qué se dedican exactamente. La ubicación a la que hay que presentarse para acudir al free tour no está explicada de forma clara. 
+
+
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
