@@ -49,11 +49,9 @@ https://raw.githubusercontent.com/alejandronunezsuarez/DIU/master/Map%20Journey%
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Valoración final (numérica): 50
+>>> - Comentario sobre la valoración:  Tras realizar la reseña de usabilidad evaluando las 45 preguntas diferentes, la página de artesanía nazarí ha obtenido una puntuación de 50. Es una puntuación un tanto floja por lo que podemos decir que han aprobado de forma muy justa. La información que muestra la página no está mal del todo pero no está ordenada de una forma clara e intuitiva, por lo que a veces al entrar a la página te sientes un poco perdido y no sabes muy bien a que se dedican realmente. En la página de inicio nada más entrar se muestra de forma muy amplia un vídeo que ocupa toda la pantalla, por lo que es un tanto chocante para alguien que entra por primera vez. Tiene algunos errores como los de la página de facturación ya que puedes saltarte alguno de los campos requeridos obligatorios y hasta que no acabas el proceso de pago no te da ningún error. Otro problema es que al intentar realizar una compra, te redirige a otra página web asociada la cuál Google la cataloga como insegura lo cuál puede hacer que desconfiemos un poco a la hora de introducir nuestros datos y pagar en esta página. En general la experiencia como usuarios no ha sido muy buena.  
+
 
 
 ## Paso 2. UX Design  
