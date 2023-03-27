@@ -33,7 +33,7 @@ Tablao flamenco: Respecto a los métodos de pago, esta página web tiene varios 
 
 Free tour: Respecto a los métodos de pago,esta página web tiene distintas opciones para pagar. Aunque el método de contacto no es bueno ya que cuesta encontrarlo dentro de la página, la navegación dentro de la página web no es muy buena ya que está muy cargada a la vista, aunque el contenido y texto de cada free tour que ofrecen está bien explicado. No cumplen con muchas opciones de idioma, solo cuentan con la página en español e inglés No tiene una interfaz muy agradable y la información de la página de inicio no es muy explicativa para saber a qué se dedican exactamente. La ubicación a la que hay que presentarse para acudir al free tour no está explicada de forma clara. 
 
-
+https://github.com/AlejandroNunezSuarez/DIU/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D%20(Copy).png
 https://raw.githubusercontent.com/alejandronunezsuarez/DIU/master/Map%20Journey%20Rodolfo%20(1).png
 
 ![Método UX](img/Persona.png) 1.b Persona
