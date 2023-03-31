@@ -33,16 +33,20 @@ Tablao flamenco: Respecto a los métodos de pago, esta página web tiene varios 
 
 Free tour: Respecto a los métodos de pago,esta página web tiene distintas opciones para pagar. Aunque el método de contacto no es bueno ya que cuesta encontrarlo dentro de la página, la navegación dentro de la página web no es muy buena ya que está muy cargada a la vista, aunque el contenido y texto de cada free tour que ofrecen está bien explicado. No cumplen con muchas opciones de idioma, solo cuentan con la página en español e inglés No tiene una interfaz muy agradable y la información de la página de inicio no es muy explicativa para saber a qué se dedican exactamente. La ubicación a la que hay que presentarse para acudir al free tour no está explicada de forma clara. 
 
-https://github.com/AlejandroNunezSuarez/DIU/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D%20(Copy).png
-https://raw.githubusercontent.com/alejandronunezsuarez/DIU/master/Map%20Journey%20Rodolfo%20(1).png
+<img width="6241" alt="Competitor Analysis  DIU23  (Copy)" src="https://user-images.githubusercontent.com/127457040/229152175-811727de-f42d-4bf0-858d-1e48a7ca676c.png">
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+![RODOLFO](https://user-images.githubusercontent.com/127457040/229153407-0c7aaed8-e5bf-4dd5-95a8-9653fdef4445.PNG)
+
+![Ceccilip](https://user-images.githubusercontent.com/127457040/229153392-9f63dec6-31de-4c8c-97cf-2d8023ae4675.PNG)
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+![Map Journey Rodolfo (1)](https://user-images.githubusercontent.com/127457040/229152488-b5dd44aa-5e27-4d61-84f7-4b95c48dcc13.png)
+![Map Journey Cecilio](https://user-images.githubusercontent.com/127457040/229152617-1e87214c-9338-4681-97a9-7b2e35d93694.png)
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
