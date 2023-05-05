@@ -87,71 +87,27 @@ Free tour: Respecto a los métodos de pago,esta página web tiene distintas opci
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
-Tareas/Grupos de usuarios
-Grupos ya formados
-Turistas locales
-Turistas extranjeros
-Personas solitarias
-Buscar actividades disponibles
-H
-H
-H
-H
-Reservar visita taller
-H
-H
-H
-H
-Anular visita taller
-L
-M
-L
-M
-Comprar productos
-M
-L
-H
-M
-Valorar visita taller
-L
-L
-M
-H
-Consultar reseñas
-L
-M
-H
-H
-Cambiar idioma página
-L
-L
-H
--
-Mirar localización taller
-M
-M
-H
-M
-
-
-
+![Task analysis](https://user-images.githubusercontent.com/127457040/236483131-e0449244-36d3-45fb-98ec-958aabf94e6b.PNG)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![Sitemap](https://user-images.githubusercontent.com/127457040/236483601-21cfb22d-5568-4187-8766-ee5715b6484b.PNG)
 
->>> Identificar términos para diálogo con usuario  
+![Labelling 1](https://user-images.githubusercontent.com/127457040/236483797-1367a43c-5381-4912-9be1-a516b2c2d4b5.PNG)
+![Labelling 2](https://user-images.githubusercontent.com/127457040/236483943-81b90e45-7c9a-45fa-8f71-b4b5a8077437.PNG)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
------
+![Uploading Home@3x.png…]()
+![Uploading Quiénes somos@3x.png…]()
+![Uploading Visita al taller@3x.png…]()
+![Uploading Tienda@3x.png…]()
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+
+
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
