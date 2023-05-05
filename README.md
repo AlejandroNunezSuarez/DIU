@@ -68,9 +68,8 @@ Free tour: Respecto a los métodos de pago,esta página web tiene distintas opci
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+<img width="3312" alt="Feedback Grid Template (Copy)" src="https://user-images.githubusercontent.com/127457040/236482397-3f8cdac8-b5cf-4a7a-93bf-2cde3a41dc68.png">
+
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
@@ -82,12 +81,60 @@ Free tour: Respecto a los métodos de pago,esta página web tiene distintas opci
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+<img width="2085" alt="scope_canvas_5_print_es (Copy)" src="https://user-images.githubusercontent.com/127457040/236482468-eea3bdd9-d6cf-46e7-b0dd-e97845bcca43.png">
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+Tareas/Grupos de usuarios
+Grupos ya formados
+Turistas locales
+Turistas extranjeros
+Personas solitarias
+Buscar actividades disponibles
+H
+H
+H
+H
+Reservar visita taller
+H
+H
+H
+H
+Anular visita taller
+L
+M
+L
+M
+Comprar productos
+M
+L
+H
+M
+Valorar visita taller
+L
+L
+M
+H
+Consultar reseñas
+L
+M
+H
+H
+Cambiar idioma página
+L
+L
+H
+-
+Mirar localización taller
+M
+M
+H
+M
+
+
+
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
