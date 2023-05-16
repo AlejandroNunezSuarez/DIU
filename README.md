@@ -101,7 +101,7 @@ Free tour: Respecto a los métodos de pago,esta página web tiene distintas opci
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 
-![Home@3x](https://user-images.githubusercontent.com/127457040/236485064-76de1542-07f3-44da-8611-f15dc8c5680b.png)
+![Captura](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/9ee89bdb-3385-4959-81ea-fbcda47fda9b)
 ![Quiénes somos@3x](https://user-images.githubusercontent.com/127457040/236485106-f2168267-d1be-4a16-a06d-fdc46e5c802c.png)
 ![Visita al taller@3x](https://user-images.githubusercontent.com/127457040/236485124-05abf9e2-ba56-48ff-b62a-ee0e6348a5de.png)
 ![Tienda@3x](https://user-images.githubusercontent.com/127457040/236485140-ee64f013-4d0d-4a93-b40b-4b2263d026d8.png)
