@@ -113,16 +113,14 @@ Free tour: Respecto a los métodos de pago,esta página web tiene distintas opci
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 
-![Uploading Moodboard Ejercicio3 [DIU23] (Copy).png…]()
+![Landing page](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/b907a688-a117-4ba4-8ace-7999ac098a4e)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-![Uploading Landing page.PNG…]()
+![Landing page](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/e54e969d-7946-48ae-888a-d26b81984623)
 
 >>> Plantear Landing Page 
 
