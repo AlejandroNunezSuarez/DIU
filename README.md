@@ -111,8 +111,8 @@ Free tour: Respecto a los métodos de pago,esta página web tiene distintas opci
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
------
 
+![Uploading Moodboard Ejercicio3 [DIU23] (Copy).png…]()
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
@@ -121,7 +121,7 @@ Free tour: Respecto a los métodos de pago,esta página web tiene distintas opci
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-
+![Uploading Landing page.PNG…]()
 
 >>> Plantear Landing Page 
 
@@ -132,10 +132,11 @@ Free tour: Respecto a los métodos de pago,esta página web tiene distintas opci
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
+---
+![MOCKUP-INICIO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/ea700451-409e-417f-8a36-d642cf531130)
+![MOCKUP-VISITA](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/c651f436-ae07-48e8-97a5-d2d3885f398e)
+![MOCKUP-EXPERIENCIAS](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/aedfc0d7-5a4f-4fbf-bcc7-001bb4a62973)
+![MOCKUP-TIENDA](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/862d7a1b-9fe1-4c87-aff5-46b546c1e3c3)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
