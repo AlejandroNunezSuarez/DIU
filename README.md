@@ -12,6 +12,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
+
 ![ARTESANIA (2)](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/443f2512-279c-4190-ac45-5df30b50c8b7)
 
 Miembros
