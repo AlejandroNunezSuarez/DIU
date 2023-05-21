@@ -132,14 +132,18 @@ El logotipo lo hemos diseñado con el creador de Canva
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ---
+![MOCKUP INICIO BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/f0295af1-a9a8-4e17-9907-a8c13a44d0cf)
+
+![MOCKUP VISITA BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/28af470a-4694-4b08-96fa-2669d15e22bc)
+
+![MOCKUP EXPERIENCIAS BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/a2b717ac-f7b3-40d9-b61c-8357b86b865d)
+
+![MOCKUP TIENDA BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/b828cded-bbdd-4213-aa7b-d64a9802dea1)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 ----
-![MOCKUP INICIO BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/f0295af1-a9a8-4e17-9907-a8c13a44d0cf)
-![MOCKUP VISITA BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/28af470a-4694-4b08-96fa-2669d15e22bc)
-![MOCKUP EXPERIENCIAS BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/a2b717ac-f7b3-40d9-b61c-8357b86b865d)
-![MOCKUP TIENDA BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/b828cded-bbdd-4213-aa7b-d64a9802dea1)
+
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
