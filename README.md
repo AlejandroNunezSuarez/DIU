@@ -113,9 +113,9 @@ Free tour: Respecto a los métodos de pago,esta página web tiene distintas opci
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 
-![Uploading Moodboard Ejercicio3 [DIU23] (Copy).png…]()
+![MOODBOARD BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/5e577715-474e-45d0-a172-fdc574a22860)
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+El logotipo lo hemos diseñado con el creador de Canva 
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
@@ -132,14 +132,14 @@ Free tour: Respecto a los métodos de pago,esta página web tiene distintas opci
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ---
-![MOCKUP-INICIO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/ea700451-409e-417f-8a36-d642cf531130)
-![MOCKUP-VISITA](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/c651f436-ae07-48e8-97a5-d2d3885f398e)
-![MOCKUP-EXPERIENCIAS](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/aedfc0d7-5a4f-4fbf-bcc7-001bb4a62973)
-![MOCKUP-TIENDA](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/862d7a1b-9fe1-4c87-aff5-46b546c1e3c3)
+
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
+----
+![MOCKUP INICIO BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/f0295af1-a9a8-4e17-9907-a8c13a44d0cf)
+![MOCKUP VISITA BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/28af470a-4694-4b08-96fa-2669d15e22bc)
+![MOCKUP EXPERIENCIAS BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/a2b717ac-f7b3-40d9-b61c-8357b86b865d)
+![MOCKUP TIENDA BUENO](https://github.com/AlejandroNunezSuarez/DIU/assets/127457040/b828cded-bbdd-4213-aa7b-d64a9802dea1)
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
