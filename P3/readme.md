@@ -17,17 +17,17 @@ Bloque Getting input:
 “Calendar picker” para que el usuario reserve su visita en una fecha concreta https://ui-patterns.com/patterns/CalendarPicker
 Para poder obtener información sobre el usuario y que pueda comunicarse con nosotros y hacer la reserva de su visita hemos usado “InputPrompt” https://ui-patterns.com/patterns/InputPrompt
 
-Bloque Dealing with data:
+#### -Bloque Dealing with data:
 
 Hemos utilizado “Gallery” para que el usuario vea las distintas fotos del taller y los distintos objetos que se realizan allí dentro https://ui-patterns.com/patterns/Gallery
 
-### Bloque Miscellaneous:
+### -Bloque Miscellaneous:
 
 Usamos “Shopping cart” una vez que el usuario ha comprado un producto de la tienda o haya reservado una visita para que salga la información correspondiente https://ui-patterns.com/patterns/ShoppingCart
 
 
 
-### Bloque Navigation:
+### -Bloque Navigation:
 
 Hemos utilizado“HomeLink” https://ui-patterns.com/patterns/HomeLink para que al pinchar sobre el logo nos devuelva a la página principal
 Usamos “Navigation tabs” para poder navegar dentro de la página entre distintos sitios https://ui-patterns.com/patterns/NavigationTabs
