@@ -21,7 +21,7 @@ Bloque Dealing with data:
 
 Hemos utilizado “Gallery” para que el usuario vea las distintas fotos del taller y los distintos objetos que se realizan allí dentro https://ui-patterns.com/patterns/Gallery
 
-	Bloque Miscellaneous:
+#Bloque Miscellaneous:
 
 Usamos “Shopping cart” una vez que el usuario ha comprado un producto de la tienda o haya reservado una visita para que salga la información correspondiente https://ui-patterns.com/patterns/ShoppingCart
 
